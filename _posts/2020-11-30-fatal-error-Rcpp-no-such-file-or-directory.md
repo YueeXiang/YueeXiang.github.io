@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Error in sourceCpp('xx.cpp') : Error 1 occurred building shared library.
-subtitle:   我差点因为这个bug换题，真实bug可能是'fatal error: Rcpp: no such file or directory'
+title:      Error in sourceCpp('xx.cpp')
+subtitle:   我差点因为这个bug换题
 date:       2020-11-30
 author:     Yue
 header-img: img/sweet.jpg
