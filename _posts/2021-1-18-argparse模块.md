@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      python argparse
+subtitle:   终于学会了
+date:       2021-1-18
+author:     Yue
+header-img: img/home-bg.jpg
+catalog: true
+tags:
+    - python
+    - argparse
+---
+
+
 # argparse模块
 
 开始写稍微大一点的项目的时候就发现人家都是用argparse的，在命令行跑代码，很酷（
