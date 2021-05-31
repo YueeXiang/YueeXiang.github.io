@@ -32,7 +32,7 @@ import torch
 torch.from_numpy(arrayD)
 ```
 
-And another wonderful command to find whether 2 arrays/Numpy matrixs $a$ and $b$ are totally the same.
+And another wonderful command to find whether 2 arrays/Numpy matrixs a and b are totally the same.
 
 ```
 print((a==b).all())
