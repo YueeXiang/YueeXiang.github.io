@@ -2,7 +2,7 @@
 
 When I read a really terrible repository (my vegetables have exploded), it uses tensor and sparse matrix simultaneously for the same initial dataset. I'm so confused... and after I transform both of them into Numpy array, they are totally the same（乌鸡鲅鱼
 
-I tried many times to understand it because every time I got tired because I understood it... and after several days I finally tried some codes and found the tensor list and csr_matrix list are the same thing（？不错子
+I tried many times to understand it because every time I got tired before I understood it... and after several days I finally tried some codes and found the tensor list and csr_matrix list are the same thing（？不错子
 
 I think the following commands are useful.
 
