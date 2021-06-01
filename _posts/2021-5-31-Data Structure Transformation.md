@@ -17,7 +17,8 @@ sp_matrixA.toarray()
 ```
 tensorB.numpy()
 ```
-#### Update on June 1st
+##### Update on June 1st
+
 I found when I turn another tensor into numpy array, ```.numpy``` goes wrong, while ```.detach().numpy()``` is OK. TO CLARRIFIED.
 
 ### Numpy array to csr_matrix
